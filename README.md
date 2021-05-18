@@ -1,2 +1,2 @@
-# openwebinarsGatsby
-Lecciones para el curso Gatsby de Openwebinars
+# OpenwebinarsGatsby
+Colleción de proyectos de sitios web construídos con Gatsby para el curso de Openwebinars
